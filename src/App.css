@@ -1,0 +1,10 @@
+*{
+  list-style: none;
+  text-decoration: none;
+}
+.App{
+  ul{
+    display: flex;
+    gap: 20px;
+  }
+}
